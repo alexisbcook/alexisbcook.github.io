@@ -1,0 +1,44 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 2
+
+[[main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories"
+    weight = 3
+
+[[main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+
+# Social Media Configuration
+
+[[social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/alexis-cook-a6127753"
+    weight = 1
+
+[[social]]
+    identifier = "Twitter"
+    name = "Twitter"
+    url = "https://twitter.com/alexis_b_cook"
+    weight = 2
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/alexisbcook"
+    weight = 3
