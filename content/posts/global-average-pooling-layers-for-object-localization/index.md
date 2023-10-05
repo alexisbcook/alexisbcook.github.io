@@ -2,7 +2,7 @@
 title: "Global Average Pooling Layers for Object Localization"
 draft: false
 date: 2017-04-09T09:16:45.000Z
-description: "Also use t-SNE to visualize bottleneck features"
+description: "Obtain and plot class activation maps"
 categories:
 - computer-vision
 tags:
