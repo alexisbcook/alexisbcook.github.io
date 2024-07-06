@@ -11,7 +11,7 @@ believer that anyone can learn anything
 
 2023-present - **Alexis Cook AI Consulting LLC**
 
-- Write educational content for AI startups and tech companies.
+- Write educational content for AI startups and tech companies. [Here](https://cohere.com/blog/fine-tuning-for-chat) is a blog post I co-authored for Cohere.
 
 2018-2023 - **Google** / **Kaggle** 
 
