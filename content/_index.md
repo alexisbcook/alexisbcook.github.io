@@ -33,6 +33,6 @@ believer that anyone can learn anything
 
 - I was fluent in the Russian language in 2010. My favorite book by a Russian author is [The Life of Arseniev](https://en.wikipedia.org/wiki/The_Life_of_Arseniev), and my favorite quote from that novel is: "у тебя что, кроме твоей прекрасной души?".  
 - I currently speak intermediate Spanish, y estoy enamorada de México.
-- I dabble with drawing and painting, but I'm not very good (yet).  Follow my learning journey [here](https://www.instagram.com/evolvingpalette/).
+- I dabble with drawing and painting, but I'm not very good (yet).  
 - I have been obsessed with books since I can remember.  Some of my favorite writers are: Chimamanda Ngozi Adichie (_Americanah_), Lorrie Moore (_Self-Help_), and [Mary Gaitskill](https://www.themarginalian.org/2014/02/28/mary-gaitskill-writing/) (_Bad Behavior_). I especially love devastating + rhythmic literary fiction authored by women.
 - I really, really like horror movies.
